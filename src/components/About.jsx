@@ -54,10 +54,10 @@ const About = () => {
                 web applications with modern frameworks.
               </p>
               <p className="text-gray-300 mb-12">
-                When I'm not coding, you can find me exploring new technologies,
-                contributing to open-source projects. I believe in continuous
-                learning and pushing the boundaries of what's possible on the
-                web.
+                When I'm not coding, I seek a balanced life that fuels my creativity and well-being.
+                 My time is dedicated to spiritual enrichment through worship and teachings, 
+                 getting lost in a good book, cheering on my favorite football team, 
+                 and, most importantly, connecting with friends and family.
               </p>
 
               {/* cards  */}
